@@ -1,0 +1,47 @@
+@media screen and (max-width=600px) {
+    .box a{
+    float: none;
+    width: 100%;
+    text-align: center; 
+    }
+   }
+   .h1{
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode','Geneva',Verdana, sans-serif;
+    color: #57A255;
+   }
+   .p{
+    text-align: left;
+   }
+   .box ul li{
+    float: left;
+   }
+   li{
+    display: inline;
+   }
+   
+   .box a{
+    text-decoration: none;
+    width: 170px;
+    display: block;
+    text-align: center;
+    background-color:white;
+    font-size: 16px;
+    color: #57A255;
+    padding: 3px 3px;
+   }
+   .box a:hover{
+    background-color:#57A255  ;
+    color: #57A255;
+   }
+   body{
+    background-color: #57A255;
+   }
+   #ee{
+                
+                background-color: white;
+                color:#57A255;
+                padding: 60px;
+                text-align : left;
+                text-transform: uppercase;
+            }
